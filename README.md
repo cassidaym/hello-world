@@ -5,7 +5,10 @@ My name is Cassiday. I'm learning coding, data science, and computer science fou
 
 What I achieved with the Github Guide "Hello World" 
 
-Created an open source repository
-Started and managed a new branch
-Changed a file and committed those changes to GitHub
-Opened and merged a Pull Request
+1. Created an open source repository
+
+2. Started and managed a new branch
+
+3. Changed a file and committed those changes to GitHub
+
+4. Opened and merged a Pull Request
